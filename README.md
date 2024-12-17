@@ -44,5 +44,6 @@ The Traveling Salesperson Problem (TSP) is a classic optimization problem in com
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/tsp-genetic-algorithm.git
-   cd tsp-genetic-algorithm
+   git clone https://github.com/AmirMansouri92/Genetic-Algorithm---TSP
+   cd Genetic-Algorithm---TSP
+

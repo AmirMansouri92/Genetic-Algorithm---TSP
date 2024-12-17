@@ -17,7 +17,7 @@ This repository contains a C++ implementation of the Traveling Salesperson Probl
 - [Future Work](#future-work)
 - [Contributing](#contributing)
 - [License](#license)
-- [references] (#references)
+- [references](#references)
 
 ## Introduction
 

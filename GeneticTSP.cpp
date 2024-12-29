@@ -9,8 +9,8 @@ struct Node {
 
 };
 
-const int NUM_NODES=5;
-const int POPULATION_SIZE=400;
+const int NUM_NODES=10;
+const int POPULATION_SIZE=100;
 const int GENERATIONS=100;
 const int STARTNODE =1;
 const double MUTATION_RATE=0.2;

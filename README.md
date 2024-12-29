@@ -75,7 +75,7 @@ Important tip: The position of the first city is never changed, as it has alread
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AmirMansouri92/Genetic-Algorithm---TSP
+   git clone https://github.com/AmirMansouri92/Genetic-Algorithm---TSP.git
    cd Genetic-Algorithm---TSP
 
 ## references
